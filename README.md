@@ -2,4 +2,4 @@ DoubleDjango
 ============
 Hello world!!!
 
-Prototype game structure
+Prototype game structure by Trentin Quarantino
